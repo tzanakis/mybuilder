@@ -1,0 +1,19 @@
+{
+  "name": "test-node-jenkins",
+  "version": "1.0.0",
+  "description": "this will test ghprb",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tzanakis/mybuilder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tzanakis/mybuilder/issues"
+  },
+  "homepage": "https://github.com/tzanakis/mybuilder#readme"
+}
