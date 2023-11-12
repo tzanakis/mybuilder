@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tzanakis/mybuilder/issues"
   },
-  "homepage": "https://github.com/tzanakis/mybuilder#readme"
+  "homepage": "https://github.com/tzanakis/mybuilder#readme",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
 }
