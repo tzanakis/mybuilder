@@ -1,2 +1,2 @@
-let message: string = "Hello Mahos";
+let message: string = "Hello ngrok";
 console.log(message);
